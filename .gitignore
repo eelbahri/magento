@@ -103,7 +103,6 @@ atlassian*
 /.grunt
 
 # Magento
-magento/app
 magento/bin
 magento/dev
 magento/lib
@@ -130,7 +129,5 @@ magento/package.json
 magento/package.json.sample
 magento/php.ini.sample
 
-!magento/app/code
-!magento/app/design
 !magento/app/etc/config.php
 !magento/app/etc/env.dev.php
